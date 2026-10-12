@@ -68,3 +68,8 @@ If you build robots, sims, or agents: try Lex next to your stack for a few cycle
 MIT — see [LICENSE](LICENSE). Copyright (c) 2026 Joshua Almeida / fitzyracing1.
 
 This is a small open pattern, not a product claim. It will not make your robot walk or your agent smarter by itself.
+
+## Documentation
+
+- In-repo docs: [docs/](docs/index.md)
+- Wiki: [https://github.com/fitzyracing1/lex-loop/wiki](https://github.com/fitzyracing1/lex-loop/wiki)
